@@ -1,6 +1,7 @@
 # GitHub_1
 Example of repository
 ##Registrarte en GitHub
+
 Requisitos:
 -Wifi/datos
 -Gmail
